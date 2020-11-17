@@ -5,7 +5,8 @@ Failure and fault point detection for machines using time series
 To develop an automated method to pinpoint the times of fault and failure in machines whose signal data is known
 
 ## Exploratory Data Analysis:
-The graph depicting all the signals of a machine for 3000 observations can not provide much information. So, below is the graph for the first 600 observations for Machine 0. I have plotted 300 observations in one graph to analyze it better.
+The graph depicting all the signals of a machine for 3000 observations can not provide much information. So, I plotted 300 observations in one graph to analyze it better. 
+![A graph for first 300 obervations of machine 0](https://github.com/chetnakhanna16/CIFAR-10_ImageClassification/blob/master/Images/List_of_files.png)
 <B>Observations:</B>
 1. The data has a lot of noise due to communication errors.
 2. The signals for the machine during the fault phase are very different from the normal phase. The signals in the fault phase have high frequency than the signals in the normal
